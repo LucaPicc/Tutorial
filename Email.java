@@ -15,10 +15,10 @@ public class Email {
       }
     }
     if(existe==true){
-      System.out.print(mail+" contiene el @ " );
+      System.out.print(mail+" contiene el @");
     }
     else{
-      System.out.print(mail+" no contiene el @ " );
+      System.out.print(mail+" no contiene el @");
     }
   }
   public static void main(String[] ar){
